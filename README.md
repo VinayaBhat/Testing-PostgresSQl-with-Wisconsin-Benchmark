@@ -1,6 +1,6 @@
 # Testing-PostgresSQl-with-Wisconsin-Benchmark
-Amee Sankhesara
-Vinaya D Bhat
+Amee Sankhesara<br />
+Vinaya D Bhat<br />
 
 Database Benchmarking Project
 Project Part I
